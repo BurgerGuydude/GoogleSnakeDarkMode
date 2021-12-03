@@ -1,11 +1,11 @@
 //Desert
 window.snake.scheme({
-  scoreBar:     '#B2A350',
-  background:   '#8C8340',
-  borders:      '#B2A350',
+  scoreBar:     '#FF0000',
+  background:   '#DC143C',
+  borders:      '#FF0000',
   shadows:      '#A9993C',
-  lightSquares: '#E8D56A',
-  darkSquares:  '#C9B95C',
+  lightSquares: '#FF7F50',
+  darkSquares:  '#d63333',
 });
 
 //Pool
